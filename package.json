@@ -1,0 +1,12 @@
+{
+  "name": "typescript_practise",
+  "version": "1.0.0",
+  "description": "Code Repo For TypeScript Practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"lite-server"
+  },
+  "author": "Manav Behera",
+  "license": "ISC"
+}
