@@ -1,0 +1,13 @@
+1-Target
+  
+  => The Target Optiotn In tsconfig.json file specifies the ECMAScript target version to which the Typescript compiler 
+      will compile the typescript code. 
+
+2. rootDir
+  => To Change the ts file location 
+
+3. OutDir
+    => To Change The Js File Location
+
+4. RemoveComment 
+    => To Remove the comment from js file     
