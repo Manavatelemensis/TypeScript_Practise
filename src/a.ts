@@ -45,11 +45,7 @@
 
 // function second(first:()=>void){
 //     setTimeout(first, 1000);
-// }
 
-// second(first)
 
-const
 
-function isLegal(user:num)
 

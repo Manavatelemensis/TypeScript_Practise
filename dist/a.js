@@ -27,11 +27,9 @@
 //     }
 // }
 // const votingAge=voting(18)
-// console.log(votingAge)
-function first() {
-    console.log("Hiii");
-}
-function second(first) {
-    setTimeout(first, 1000);
-}
-second(first);
+// // console.log(votingAge)
+// function first():void{
+//     console.log("Hiii")
+// }
+// function second(first:()=>void){
+//     setTimeout(first, 1000);
